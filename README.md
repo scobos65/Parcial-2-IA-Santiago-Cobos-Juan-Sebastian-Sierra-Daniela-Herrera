@@ -5,6 +5,8 @@
 
 Este proyecto tiene como propósito aplicar herramientas de **aprendizaje automático** para predecir la probabilidad de que un individuo perciba ingresos superiores a 50.000 dólares anuales, a partir de variables socioeconómicas recogidas en el **Adult Census Income Dataset**. Desde la perspectiva de la economía aplicada, este ejercicio es relevante pues permite comprender cómo características demográficas, educativas y laborales se asocian con la probabilidad de situarse en un determinado tramo de ingresos. Además, constituye un caso práctico de cómo la inteligencia artificial puede apoyar el análisis empírico y la toma de decisiones en política pública y economía laboral.
 
+Mediante un codigo en Python y un informe, se desarrollara el proyecto teniendo como base los aprendizajes de la clase de Haciendo Economía 2: Inteligencia Artificial aplicada a la economía.
+
 ---
 
 ## 1. Procesamiento de los datos

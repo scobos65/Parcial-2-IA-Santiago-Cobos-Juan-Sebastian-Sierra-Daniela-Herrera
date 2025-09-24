@@ -1,0 +1,1 @@
+# Parcial-2-IA-Santiago-Cobos-Juan-Sebastian-Sierra-Daniela-Herrera
